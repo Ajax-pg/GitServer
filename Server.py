@@ -496,7 +496,7 @@ Server initialized with:
 
         
             
-# S = server('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', 'API')
+# S = server('TOKEN', 'REPO')
 # S.create_class('TESTE')
 # S.create_table('TESTE', 'TESTE')
 # S.insert_data('TESTE', 'TESTE', 'teste1', 'teste')
